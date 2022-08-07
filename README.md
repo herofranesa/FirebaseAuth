@@ -1,3 +1,3 @@
 # FirebaseAuth
 
-Create Mobile App Login with Android Studio + Firebase Auththentication
+Create Mobile App Login with Android Studio + Firebase Authentication
